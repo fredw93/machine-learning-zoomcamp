@@ -1,0 +1,2 @@
+@fredw93 ➜ /workspaces/nine-learning-zoomcamp (main) $ uv --version
+uv 0.13.5 (x86_64-unknown-linux-gnu)
